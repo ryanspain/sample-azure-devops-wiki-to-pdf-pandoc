@@ -40,3 +40,9 @@ This sample shows how you can take your Azure DevOps wiki repository files, and 
     ```powershell
     pandock "./out/Sample wiki.md" "./dist/Sample wiki.pdf"
     ```
+
+## Credits
+
+- Docker
+- [pandoc/latex](https://hub.docker.com/r/pandoc/latex) Docker image
+- [wikiexport](https://github.com/phatcher/wikiexport) dotnet tool
